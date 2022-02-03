@@ -16,7 +16,7 @@ All you need to do is,
 3. add your tasks.
 4. let it manage your tasks for you 😊
 
-And it is **FREE**!!!!!!😄
+And it is **FREE**!!!!!!!😄
 
    ```
     ____        _        
